@@ -1,0 +1,6 @@
+{
+  "name": "StockFlow",
+  "description": "Open-source inventory, warehouse, sales, purchasing, and analytics management system built with React, Express, and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
